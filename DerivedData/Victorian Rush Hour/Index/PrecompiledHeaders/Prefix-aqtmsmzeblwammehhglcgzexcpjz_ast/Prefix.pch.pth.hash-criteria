@@ -1,0 +1,36 @@
+Contents of /Users/newsuzukihiromasa/Desktop/cocos2dx/7341_Code/Chapter 7/7341_07_FINAL_PROJECT/Victorian Rush Hour/Victorian Rush Hour/Prefix.pch
+
+arm-apple-darwin12.4.0
+-x
+c
+-arch
+armv7
+-fmessage-length=0
+-std=gnu99
+-fpascal-strings
+-O0
+-DDEBUG
+-DCOCOS2D_DEBUG=1
+-DUSE_FILE32API
+-DTARGET_OS_IPHONE
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+-fstrict-aliasing
+-g
+-miphoneos-version-min=5.1
+-iquote
+-iquote
+-I/Users/newsuzukihiromasa/Desktop/cocos2dx/7341_Code/Chapter 7/7341_07_FINAL_PROJECT/Victorian Rush Hour/DerivedData/Victorian Rush Hour/Build/Products/Debug-iphoneos/include
+-IVictorian Rush Hour/libs/cocos2dx/kazmath/include
+-IVictorian Rush Hour/libs/cocos2dx
+-IVictorian Rush Hour/libs/CocosDenshion/include
+-I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/libxml2
+-IVictorian Rush Hour/libs/cocos2dx/include
+-IVictorian Rush Hour/libs/cocos2dx/platform/third_party/ios
+-IVictorian Rush Hour/libs/cocos2dx/platform/ios
+-F/Users/newsuzukihiromasa/Desktop/cocos2dx/7341_Code/Chapter 7/7341_07_FINAL_PROJECT/Victorian Rush Hour/DerivedData/Victorian Rush Hour/Build/Products/Debug-iphoneos
+-ferror-limit=10
+-working-directory=/Users/newsuzukihiromasa/Desktop/cocos2dx/7341_Code/Chapter 7/7341_07_FINAL_PROJECT/Victorian Rush Hour
+-Xclang
+-detailed-preprocessing-record
+SDK_PRODUCT_BUILD_VERSION=10B141
